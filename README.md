@@ -1,6 +1,6 @@
 # Privacy Policy 
 
-Before using Renon you have to agree privacy policy of Renon. Read it carefully.
+Before using Renon you have to agree privacy policy of Devil Music . Read it carefully.
 
 ## 1. What data we collect?
 Data we collect. Without collecting this Data some commands won't work:-
@@ -25,7 +25,7 @@ No, About your Data it is completely safe and secure we don't share it with anyo
 
 
 ## 5. How can you contact us? 
-If you have any concerns about vivre. You can simply join our [support server](https://discord.gg/c2KKcfj4Dy) or [our Email](renonbotdisccord@gmail.com).
+If you have any concerns about Devil Music. You can simply join our [support server](https://discord.gg/c2KKcfj4Dy) or [our Email](renonbotdisccord@gmail.com).
 
 
 ## 6. How can you delete your Data?
